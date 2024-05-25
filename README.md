@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<img src="https://github.com/abhinavjnv2002/banner/blob/main/Abhinav%20Prakash%20(1).png" alt="Banner" width="100%"/>
+
+<h1 align="center">Hi 👋, I'm Abhinav Prakash</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" alt="Coding gif"/>
